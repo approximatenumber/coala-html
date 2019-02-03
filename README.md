@@ -1,4 +1,5 @@
-![](https://dockerbuildbadges.quelltext.eu/status.svg?organization=approximatenumber&repository=coala-html)
+![pulls](https://img.shields.io/docker/pulls/approximatenumber/coala-html.svg)
+![builds](https://img.shields.io/docker/build/approximatenumber/coala-html.svg)
 
 ## Dockerized coala-html
 
